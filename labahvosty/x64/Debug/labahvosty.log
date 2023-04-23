@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\danil\source\repos\labahvosty\labahvosty\Source.cpp(183,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  labahvosty.cpp
+C:\Users\danil\source\repos\labahvosty\labahvosty\labahvosty.cpp(6,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+C:\Users\danil\source\repos\labahvosty\labahvosty\Source.cpp(262): warning C4715: naprav_to_str: значение возвращается не при всех путях выполнения
+C:\Users\danil\source\repos\labahvosty\labahvosty\Source.cpp(268): warning C4715: status_to_str: значение возвращается не при всех путях выполнения
+  labahvosty.vcxproj -> C:\Users\danil\source\repos\labahvosty\x64\Debug\labahvosty.exe
